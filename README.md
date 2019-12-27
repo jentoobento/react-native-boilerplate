@@ -1,2 +1,6 @@
-# react-native-boilerplate
-Boilerplate for creating react native apps
+# Boiler plate app for personal use
+
+Simple React Native app with the following:
+- Navigation
+- Icons and Elements
+- Redux

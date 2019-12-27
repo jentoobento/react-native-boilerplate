@@ -1,0 +1,43 @@
+dependencies: \
+  /Users/jwatanabe/react-native-boilerplate/node_modules/react-native/Libraries/Text/Text/RCTTextViewManager.m \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Target\ Support\ Files/React-RCTText/React-RCTText-prefix.pch \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTTextViewManager.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTBaseTextViewManager.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTAccessibilityManager.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTShadowView+Layout.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTShadowView.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTLayout.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTUIManagerUtils.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTUIManagerObserverCoordinator.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTTextShadowView.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTBaseTextShadowView.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTTextAttributes.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTTextTransform.h \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Headers/Public/React-Core/React/RCTTextView.h

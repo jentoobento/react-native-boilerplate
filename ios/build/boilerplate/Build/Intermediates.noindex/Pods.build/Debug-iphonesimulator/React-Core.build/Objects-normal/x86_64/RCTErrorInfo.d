@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/jwatanabe/react-native-boilerplate/node_modules/react-native/React/Base/RCTErrorInfo.m \
+  /Users/jwatanabe/react-native-boilerplate/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/jwatanabe/react-native-boilerplate/node_modules/react-native/React/Base/RCTErrorInfo.h \
+  /Users/jwatanabe/react-native-boilerplate/node_modules/react-native/React/Base/RCTJSStackFrame.h

@@ -1,12 +1,24 @@
-import React, {Component} from 'react';
-import {View, Text} from 'react-native';
+import React, {PureComponent} from 'react';
+import {View, Text, TouchableOpacity} from 'react-native';
+import s from './styles';
 
-export default class Home extends Component {
+class Home extends PureComponent {
+  buttonClick = () => {
+    const { navigation } = this.props;
+    navigation.navigate('Profile');
+  }
+
   render() {
     return (
-      <View>
-        <Text>home screen</Text>
+      <View style={s.container}>
+        <View style={s.buttonContainer}>
+          <TouchableOpacity onPress={this.buttonClick} style={s.button}>
+            <Text>Go to the Profile Screen</Text>
+          </TouchableOpacity>
+        </View>
       </View>
     );
   }
 }
+
+export default Home;

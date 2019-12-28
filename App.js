@@ -5,6 +5,7 @@ import {createLogger} from 'redux-logger';
 import thunk from 'redux-thunk';
 import {createAppContainer} from 'react-navigation';
 import {createStackNavigator} from 'react-navigation-stack';
+import NavigationService from './NavigationService';
 // import reducers for redux below
 import peopleReducer from './src/redux/reducers/peopleReducer';
 // import components for screens below
@@ -34,11 +35,15 @@ const navigator = createStackNavigator({
   },
 });
 
-const RootApp = createAppContainer(navigator);
+const AppContainer = createAppContainer(navigator);
 
 const App = () => (
   <Provider store={store}>
-    <RootApp />
+    <AppContainer 
+      ref={navigatorRef => {
+        NavigationService.setTopLevelNavigator(navigatorRef);
+      }}
+    />
   </Provider>
 );
 

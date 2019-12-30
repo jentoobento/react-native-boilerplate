@@ -28,10 +28,10 @@ const navigator = createStackNavigator({
   Profile: { screen: ProfileScreen},
 }, {
   initialRouteName: 'Home',
+  headerLayoutPreset: 'center',
   // change code below for custom default header
   defaultNavigationOptions: {
-    title: '',
-    headerBackTitle: ' ',
+    headerBackTitle: null,
   },
 });
 

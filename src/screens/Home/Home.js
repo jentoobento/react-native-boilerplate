@@ -1,5 +1,6 @@
 import React, {PureComponent} from 'react';
 import {View, Text, TouchableOpacity} from 'react-native';
+import {Icon} from 'react-native-elements';
 import {connect} from 'react-redux';
 import s from './styles';
 
@@ -27,5 +28,15 @@ class Home extends PureComponent {
     );
   }
 }
+
+Home.navigationOptions = {
+  headerTitle: 'Home Page!',
+  headerLeft: (
+    <Icon name="favorite" />
+  ),
+  headerRight: (
+    <Icon name="star" />
+  ),
+};
 
 export default connect(mapStateToProps, null)(Home);

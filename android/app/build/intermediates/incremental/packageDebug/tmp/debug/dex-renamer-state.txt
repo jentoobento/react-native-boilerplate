@@ -1,4 +1,4 @@
-#Mon Dec 30 09:38:31 PST 2019
+#Mon Dec 30 10:18:21 PST 2019
 base.0=/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

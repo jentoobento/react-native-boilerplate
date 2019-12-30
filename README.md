@@ -10,14 +10,14 @@
 </div>
 
 Simple React Native app that I can clone and (hopefully) start making stuff without having to set up and import everything again. Includes:
-    React Native Elements
-    React Native Gesture Handler
-    React Native Reanimated
-    React Native Vector Icons
-    React Navigation
-    React Navigation Stack
-    Redux
-    React Redux
-    Redux Thunk
-    Redux Logger
+- React Native Elements
+- React Native Gesture Handler
+- React Native Reanimated
+- React Native Vector Icons
+- React Navigation
+- React Navigation Stack
+- Redux
+- React Redux
+- Redux Thunk
+- Redux Logger
     

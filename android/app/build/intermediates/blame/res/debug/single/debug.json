@@ -89,7 +89,7 @@
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/layout_dev_loading_view.xml.flat",
-        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/260a4bdf2c4994170f36239b9eb7664c/res/layout/dev_loading_view.xml"
+        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/1fc7d69415c1ca7bd4b0f10d25e147f0/res/layout/dev_loading_view.xml"
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -105,7 +105,7 @@
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/xml_rn_dev_preferences.xml.flat",
-        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/260a4bdf2c4994170f36239b9eb7664c/res/xml/rn_dev_preferences.xml"
+        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/1fc7d69415c1ca7bd4b0f10d25e147f0/res/xml/rn_dev_preferences.xml"
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -149,7 +149,7 @@
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_out.xml.flat",
-        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/260a4bdf2c4994170f36239b9eb7664c/res/anim/catalyst_push_up_out.xml"
+        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/1fc7d69415c1ca7bd4b0f10d25e147f0/res/anim/catalyst_push_up_out.xml"
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -353,7 +353,7 @@
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/drawable_redbox_top_border_background.xml.flat",
-        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/260a4bdf2c4994170f36239b9eb7664c/res/drawable/redbox_top_border_background.xml"
+        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/1fc7d69415c1ca7bd4b0f10d25e147f0/res/drawable/redbox_top_border_background.xml"
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -385,7 +385,7 @@
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_in.xml.flat",
-        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/260a4bdf2c4994170f36239b9eb7664c/res/anim/catalyst_fade_in.xml"
+        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/1fc7d69415c1ca7bd4b0f10d25e147f0/res/anim/catalyst_fade_in.xml"
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/drawable_abc_list_divider_material.xml.flat",
@@ -409,7 +409,7 @@
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_down.xml.flat",
-        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/260a4bdf2c4994170f36239b9eb7664c/res/anim/catalyst_slide_down.xml"
+        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/1fc7d69415c1ca7bd4b0f10d25e147f0/res/anim/catalyst_slide_down.xml"
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -445,7 +445,7 @@
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/layout_redbox_item_title.xml.flat",
-        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/260a4bdf2c4994170f36239b9eb7664c/res/layout/redbox_item_title.xml"
+        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/1fc7d69415c1ca7bd4b0f10d25e147f0/res/layout/redbox_item_title.xml"
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/layout_abc_tooltip.xml.flat",
@@ -457,7 +457,7 @@
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/layout_fps_view.xml.flat",
-        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/260a4bdf2c4994170f36239b9eb7664c/res/layout/fps_view.xml"
+        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/1fc7d69415c1ca7bd4b0f10d25e147f0/res/layout/fps_view.xml"
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/drawable_abc_tab_indicator_material.xml.flat",
@@ -609,7 +609,7 @@
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/layout_redbox_item_frame.xml.flat",
-        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/260a4bdf2c4994170f36239b9eb7664c/res/layout/redbox_item_frame.xml"
+        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/1fc7d69415c1ca7bd4b0f10d25e147f0/res/layout/redbox_item_frame.xml"
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -669,7 +669,7 @@
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_out.xml.flat",
-        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/260a4bdf2c4994170f36239b9eb7664c/res/anim/catalyst_fade_out.xml"
+        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/1fc7d69415c1ca7bd4b0f10d25e147f0/res/anim/catalyst_fade_out.xml"
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -1089,7 +1089,7 @@
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_up.xml.flat",
-        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/260a4bdf2c4994170f36239b9eb7664c/res/anim/catalyst_slide_up.xml"
+        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/1fc7d69415c1ca7bd4b0f10d25e147f0/res/anim/catalyst_slide_up.xml"
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -1369,7 +1369,7 @@
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/layout_redbox_view.xml.flat",
-        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/260a4bdf2c4994170f36239b9eb7664c/res/layout/redbox_view.xml"
+        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/1fc7d69415c1ca7bd4b0f10d25e147f0/res/layout/redbox_view.xml"
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
@@ -1481,7 +1481,7 @@
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_in.xml.flat",
-        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/260a4bdf2c4994170f36239b9eb7664c/res/anim/catalyst_push_up_in.xml"
+        "source": "/Users/jwatanabe/.gradle/caches/transforms-2/files-2.1/1fc7d69415c1ca7bd4b0f10d25e147f0/res/anim/catalyst_push_up_in.xml"
     },
     {
         "merged": "/Users/jwatanabe/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/color-v23_abc_tint_switch_track.xml.flat",
